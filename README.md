@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Nandeep Barochiya.
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning new technologies.
-- 💞️ I’m looking to collaborate on front-end Projects. 
+- 💻 Visite my website https://nandeepbarochiya.com
+- 👀 I’m interested in front-end development (Basically experienced full stack developer😜).
+- 💞️ I’m looking to collaborate on realtime projects. 
+
 
 <!---
 Nandeep2750/Nandeep2750 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
